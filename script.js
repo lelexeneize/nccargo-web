@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // 4. Quote Form Submission -> WhatsApp Direct Integration
   const quoteForm = document.getElementById('quoteForm');
   const formFeedback = document.getElementById('formFeedback');
-  const WHATSAPP_PHONE = '5491162959986'; // Daiana Lopez - NC Cargo
+  const WHATSAPP_PHONE = '5491173694210'; // NC Cargo Oficial
 
   if (quoteForm) {
     quoteForm.addEventListener('submit', (e) => {
